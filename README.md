@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafaelagarcia
-- 👀 I’m interes em Java
-- 🌱 I’m currently learning  Java, Spring boot
+- 👀 I’m interes em QA
+- 🌱 I’m currently learning  Java, QA , Selenium
 - 💞️ I’m looking to collaborate on  projes  para testar minhas habilidades.
 - 📫  Rafaelagarcia240@gmail.com
 
